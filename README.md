@@ -19,3 +19,6 @@ Quantitative Aptitude Preparation<br>
 Advanced C++ Coding<br>
 Connect With Me 🤝<br>
 linkedin.com/in/aman-sharma-1184241b4 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Amansharma95&show_icons=true)
+
