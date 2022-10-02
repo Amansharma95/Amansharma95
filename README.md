@@ -4,7 +4,7 @@
 I am a MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam Technical University, Lucknow(U.P). Being a tech enthusiast I love to explore new technology and i am quite interested in software development and crafting myself towards the same.<br>
 
 **About Me **📖 <br>
-🗓️ I’m currently Pursuing MCA from A.P.J Abdul Kalam Technical University<br>
+🗓️ I have completed my MCA from A.P.J Abdul Kalam Technical University<br>
 🔁 Strong intuitions come with strong applied knowledge.<br>
 🤔 Disciplined, Time bound, works out everything will full dedication and focus.<br>
 🔭 I’m looking for a full time apportunity ...<br>
